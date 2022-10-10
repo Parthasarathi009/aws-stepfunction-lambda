@@ -1,8 +1,6 @@
 # aws-step-functions
 Brief Tutorial on AWS Step Functions
 
-Watch [Walkthrough on O'Reilly](https://learning.oreilly.com/videos/data-engineering-with/6132021VIDEOPAIML/)
-
 ## Overview
 
 The overall idea is to chain AWS Lambda functions together where the input of one feeds into another function.
